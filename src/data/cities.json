@@ -1,0 +1,354 @@
+{
+  "cities": [
+    {
+      "name": "Tokyo",
+      "country": "Japan",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Tokyo's underground and train networks are extensive and super busy."
+    },
+    {
+      "name": "London",
+      "country": "United Kingdom",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+      "funFact": "London is technically considered a forest, with approximately 8.4 million trees."
+    },
+    {
+      "name": "Paris",
+      "country": "France",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+      "funFact": "There are no 'STOP' signs for cars in Paris; the last one was removed in 2013."
+    },
+    {
+      "name": "New York City",
+      "country": "United States",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=800&q=80",
+      "funFact": "More than 800 languages are spoken in New York City."
+    },
+    {
+      "name": "Shanghai",
+      "country": "China",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1538423124502-1277df5b3f7a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Shanghai has the world's longest metro system, spanning over 800 km."
+    },
+    {
+      "name": "Rome",
+      "country": "Italy",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Rome is home to the world's smallest country, Vatican City."
+    },
+    {
+      "name": "Istanbul",
+      "country": "Turkey",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Istanbul is the only city in the world that straddles two continents: Asia and Europe."
+    },
+    {
+      "name": "Sydney",
+      "country": "Australia",
+      "continent": "Australia/Oceania",
+      "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Sydney holds more than 100 beaches and the world's largest natural harbor."
+    },
+    {
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "continent": "South America",
+      "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Rio de Janeiro is home to the iconic Christ the Redeemer statue."
+    },
+    {
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8870a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Dubai is home to the tallest skyscraper in the world, the Burj Khalifa."
+    },
+    {
+      "name": "Seoul",
+      "country": "South Korea",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Seoul is a global hub for tech and innovation with very fast internet speeds."
+    },
+    {
+      "name": "Mexico City",
+      "country": "Mexico",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Mexico City is sinking at a rate of 10cm per year because it was built on a lake bed."
+    },
+    {
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1512470876302-972faa2aa9a4?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Amsterdam has more bicycles than people."
+    },
+    {
+      "name": "Cairo",
+      "country": "Egypt",
+      "continent": "Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Cairo is home to Africa's only subway system."
+    },
+    {
+      "name": "Moscow",
+      "country": "Russia",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Moscow's public transportation is one of the fastest in the world."
+    },
+    {
+      "name": "Berlin",
+      "country": "Germany",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1560930950-5cc6074fe535?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Berlin is nine times bigger than Paris but has a lower population density."
+    },
+    {
+      "name": "Los Angeles",
+      "country": "United States",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The Hollywood Sign originally read 'HOLLYWOODLAND' when it was erected in 1923."
+    },
+    {
+      "name": "Singapore",
+      "country": "Singapore",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1525625232754-0370b75d6816?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Singapore is known as a city in a garden and is one of the greenest cities in the world."
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Madrid is the highest capital city in Europe."
+    },
+    {
+      "name": "Toronto",
+      "country": "Canada",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1517935706615-2717063c2225?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Toronto is considered one of the most multicultural cities in the world."
+    },
+    {
+      "name": "Cape Town",
+      "country": "South Africa",
+      "continent": "Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b0?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Cape Town is home to a colony of African penguins at Boulders Beach."
+    },
+    {
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "continent": "South America",
+      "imageUrl": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Buenos Aires has the widest avenue in the world, 9 de Julio Avenue."
+    },
+    {
+      "name": "Mumbai",
+      "country": "India",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Mumbai's local trains carry more people daily than the entire population of Finland."
+    },
+    {
+      "name": "Bangkok",
+      "country": "Thailand",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1508009603885-50cf7c579367?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The popular energy drink, Red Bull, was created in Bangkok."
+    },
+    {
+      "name": "Athens",
+      "country": "Greece",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1516483642785-22fc17309ea4?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Athens is one of the oldest named cities in the world, dating back 3,400 years."
+    },
+    {
+      "name": "Prague",
+      "country": "Czech Republic",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Prague's historic center is a UNESCO World Heritage Site."
+    },
+    {
+      "name": "Melbourne",
+      "country": "Australia",
+      "continent": "Australia/Oceania",
+      "imageUrl": "https://images.unsplash.com/photo-1514395462725-fb4566210144?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Melbourne has the largest tram system in the world."
+    },
+    {
+      "name": "Lagos",
+      "country": "Nigeria",
+      "continent": "Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1541434199516-778841793132?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Lagos is the most populous city in Africa."
+    },
+    {
+      "name": "Auckland",
+      "country": "New Zealand",
+      "continent": "Australia/Oceania",
+      "imageUrl": "https://images.unsplash.com/photo-1507699622108-4be3abd695ad?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Auckland is known as the 'City of Sails' for its high boat ownership."
+    },
+    {
+      "name": "Santiago",
+      "country": "Chile",
+      "continent": "South America",
+      "imageUrl": "https://images.unsplash.com/photo-1473445361085-b9a07f55608b?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Santiago is surrounded by the Andes mountains, visible from most of the city."
+    },
+    {
+      "name": "McMurdo Station",
+      "country": "Antarctica",
+      "continent": "Antarctica",
+      "imageUrl": "https://images.unsplash.com/photo-1516939884455-1445c8652f83?auto=format&fit=crop&w=800&q=80",
+      "funFact": "McMurdo Station is the largest research station in Antarctica."
+    },
+    {
+      "name": "Esperanza Base",
+      "country": "Antarctica",
+      "continent": "Antarctica",
+      "imageUrl": "https://images.unsplash.com/photo-1483347756197-71ef80e95f73?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The first human birth in Antarctica occurred at Esperanza Base in 1978."
+    },
+    {
+      "name": "Vancouver",
+      "country": "Canada",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1559511260-66a654ae982a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Vancouver is consistently ranked as one of the most livable cities in the world."
+    },
+    {
+      "name": "Chicago",
+      "country": "United States",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1494522264356-02121175b14f?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The Chicago River is the only river in the world that flows backward."
+    },
+    {
+      "name": "Vienna",
+      "country": "Austria",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Vienna is known as the 'City of Music' due to its musical legacy."
+    },
+    {
+      "name": "Brussels",
+      "country": "Belgium",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1559113513-d5e09c88b6bb?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Brussels is the administrative center of the European Union."
+    },
+    {
+      "name": "Lisbon",
+      "country": "Portugal",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1501927023255-9063ec9b292e?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Lisbon is the second oldest European capital after Athens."
+    },
+    {
+      "name": "Dubai",
+      "country": "UAE",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8870a?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The Burj Khalifa in Dubai is the world's tallest building."
+    },
+    {
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Kuala Lumpur is home to the Petronas Twin Towers, once the world's tallest."
+    },
+    {
+      "name": "Nairobi",
+      "country": "Kenya",
+      "continent": "Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1549417229-aa67d3263c09?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Nairobi is known as the 'Green City in the Sun' and has a national park within its borders."
+    },
+    {
+      "name": "Marrakech",
+      "country": "Morocco",
+      "continent": "Africa",
+      "imageUrl": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Marrakech's historic Medina is a UNESCO World Heritage Site."
+    },
+    {
+      "name": "Havana",
+      "country": "Cuba",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Havana is famous for its classic American cars and Spanish colonial architecture."
+    },
+    {
+      "name": "Lima",
+      "country": "Peru",
+      "continent": "South America",
+      "imageUrl": "https://images.unsplash.com/photo-1531968455001-5c5277a9b132?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Lima is the only South American capital to face the sea."
+    },
+    {
+      "name": "Manila",
+      "country": "Philippines",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Manila is one of the most densely populated cities in the world."
+    },
+    {
+      "name": "Bangkok",
+      "country": "Thailand",
+      "continent": "Asia",
+      "imageUrl": "https://images.unsplash.com/photo-1508009603885-50cf7c579367?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Bangkok's ceremonial name is one of the longest in the world."
+    },
+    {
+      "name": "San Francisco",
+      "country": "United States",
+      "continent": "North America",
+      "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&q=80",
+      "funFact": "The Golden Gate Bridge was not originally planned to be 'International Orange'."
+    },
+    {
+      "name": "Edinburgh",
+      "country": "United Kingdom",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1531260796528-ae45a644fb20?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Edinburgh was the first city in the world to have its own fire brigade."
+    },
+    {
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1513622470522-26c3c8a854bc?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Copenhagen is often ranked as one of the happiest cities in the world."
+    },
+    {
+      "name": "Stockholm",
+      "country": "Sweden",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Stockholm is built on 14 islands connected by 57 bridges."
+    },
+    {
+      "name": "Budapest",
+      "country": "Hungary",
+      "continent": "Europe",
+      "imageUrl": "https://images.unsplash.com/photo-1551867633-194f125bddfa?auto=format&fit=crop&w=800&q=80",
+      "funFact": "Budapest has the oldest electrified underground railway system in continental Europe."
+    }
+  ]
+}

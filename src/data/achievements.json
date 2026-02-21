@@ -1,0 +1,40 @@
+{
+    "achievements": [
+        {
+            "id": "first_win",
+            "title": "First Step",
+            "description": "Get your first correct answer.",
+            "icon": "flag"
+        },
+        {
+            "id": "continent_master",
+            "title": "Continent Master",
+            "description": "Complete a quiz for any continent.",
+            "icon": "globe"
+        },
+        {
+            "id": "perfect_score",
+            "title": "Perfect Score",
+            "description": "Get 100% accuracy on a continent with at least 5 cities.",
+            "icon": "star"
+        },
+        {
+            "id": "geography_buff",
+            "title": "Geography Buff",
+            "description": "Save 5 favorite cities.",
+            "icon": "heart"
+        },
+        {
+            "id": "hard_mode",
+            "title": "Hard Crusader",
+            "description": "Correctly guess a country on Hard difficulty.",
+            "icon": "skull"
+        },
+        {
+            "id": "speed_demon",
+            "title": "Speed Demon",
+            "description": "Complete a 5+ city quiz in under 30 seconds.",
+            "icon": "flash"
+        }
+    ]
+}
